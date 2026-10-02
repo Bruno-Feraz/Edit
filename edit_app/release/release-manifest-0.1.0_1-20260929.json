@@ -1,0 +1,8 @@
+{
+  "product": "Edit",
+  "version": "0.1.0+1",
+  "generatedAt": "2026-09-29T12:52:50.455894Z",
+  "componentCount": 82,
+  "sbom": "sbom-0.1.0_1-20260929.cdx.json",
+  "note": "Archiviare insieme a hash binario e checklist. Non pubblicare per forza."
+}

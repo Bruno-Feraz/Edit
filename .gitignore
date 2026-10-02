@@ -1,0 +1,30 @@
+.DS_Store
+.idea/
+*.iml
+.vscode/
+
+# Flutter
+edit_app/.dart_tool/
+edit_app/.flutter-plugins
+edit_app/.flutter-plugins-dependencies
+edit_app/.packages
+edit_app/build/
+edit_app/.pub-cache/
+edit_app/.pub/
+**/Generated.xcconfig
+**/flutter_export_environment.sh
+**/ephemeral/
+
+# Release artifacts
+edit_app/release/**/*.apk
+edit_app/release/**/*.aab
+edit_app/release/**/*.ipa
+edit_app/release/**/*.app/
+edit_app/release/**/*.dmg
+
+# Local projects / media
+**/projects/
+*.mp4
+*.mov
+*.wav
+*.m4a
